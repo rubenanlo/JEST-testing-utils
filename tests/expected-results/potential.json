@@ -1,0 +1,6362 @@
+[
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "bioch",
+    "values": [
+      3149.7,
+      3228.1,
+      3582.7,
+      3933.6,
+      4001.0,
+      3579.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "duck",
+    "values": [
+      3555.2,
+      3713.0,
+      4210.5,
+      4615.6,
+      5358.8,
+      4229.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-awd",
+    "values": [
+      898.2,
+      3287.4,
+      10454.9,
+      10497.4,
+      10511.5,
+      7288.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-cf",
+    "values": [
+      2039.8,
+      6640.7,
+      11303.9,
+      13677.5,
+      16820.8,
+      10570.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-cfd",
+    "values": [
+      2171.1,
+      2171.1,
+      2646.3,
+      3121.6,
+      3121.6,
+      2646.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-cfdii",
+    "values": [
+      1085.7,
+      1085.7,
+      1085.7,
+      1085.7,
+      1085.7,
+      1085.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-ci",
+    "values": [
+      3451.5,
+      3451.5,
+      3648.1,
+      5170.1,
+      5170.1,
+      4216.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-inter",
+    "values": [
+      5326.8,
+      5409.8,
+      5493.7,
+      5904.5,
+      6573.6,
+      5111.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-rf",
+    "values": [
+      902.7,
+      902.7,
+      1293.6,
+      1684.5,
+      1684.5,
+      1293.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "irr-swd",
+    "values": [
+      8841.4,
+      8841.4,
+      8841.4,
+      8841.4,
+      8841.4,
+      8841.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "n-conv",
+    "values": [
+      1001.7,
+      2215.4,
+      5856.5,
+      9783.8,
+      11092.9,
+      5983.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "n-high",
+    "values": [
+      987.3,
+      987.3,
+      987.3,
+      987.3,
+      987.3,
+      987.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "n-low",
+    "values": [
+      989.9,
+      2101.8,
+      5437.5,
+      11083.5,
+      12965.6,
+      6464.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "n-no",
+    "values": [
+      5326.8,
+      5326.8,
+      8420.8,
+      11514.8,
+      11514.8,
+      8420.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "n-urea",
+    "values": [
+      6573.6,
+      6573.6,
+      8025.4,
+      8841.4,
+      12192.4,
+      7283.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "r-f",
+    "values": [
+      3805.5,
+      3805.5,
+      3929.8,
+      4054.1,
+      4054.1,
+      3929.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "r-gm",
+    "values": [
+      4767.9,
+      4767.9,
+      4827.5,
+      4887.1,
+      4887.1,
+      4827.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "r-till",
+    "values": [
+      4676.4,
+      4676.4,
+      4676.4,
+      4676.4,
+      4676.4,
+      4676.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "straw",
+    "values": [
+      4676.4,
+      4676.4,
+      4676.4,
+      4676.4,
+      4676.4,
+      4676.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "var",
+    "values": [
+      1684.5,
+      4835.7,
+      14289.2,
+      14600.9,
+      14704.8,
+      10226.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR4",
+    "indicator": "var-d",
+    "values": [
+      12761.1,
+      12761.1,
+      13275.1,
+      13371.0,
+      13441.3,
+      10750.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "bioch",
+    "values": [
+      3209.4,
+      3440.0,
+      3650.6,
+      3915.2,
+      4307.8,
+      3704.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "duck",
+    "values": [
+      3840.8,
+      4059.3,
+      4553.5,
+      5098.1,
+      5840.3,
+      4619.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-awd",
+    "values": [
+      909.0,
+      3294.9,
+      10452.6,
+      10528.0,
+      10553.1,
+      7304.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-cf",
+    "values": [
+      2218.3,
+      7387.4,
+      12612.5,
+      15229.1,
+      18369.0,
+      11707.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-cfd",
+    "values": [
+      2365.6,
+      2365.6,
+      2811.6,
+      3257.6,
+      3257.6,
+      2811.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-cfdii",
+    "values": [
+      1143.7,
+      1143.7,
+      1143.7,
+      1143.7,
+      1143.7,
+      1143.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-ci",
+    "values": [
+      810.0,
+      3505.4,
+      4059.2,
+      5486.0,
+      5486.0,
+      4562.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-inter",
+    "values": [
+      5915.1,
+      5974.0,
+      6066.2,
+      6523.3,
+      7271.0,
+      5648.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-rf",
+    "values": [
+      830.2,
+      830.2,
+      1212.7,
+      1595.1,
+      1595.1,
+      1212.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "irr-swd",
+    "values": [
+      9864.6,
+      9864.6,
+      9864.6,
+      9864.6,
+      9864.6,
+      9864.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "n-conv",
+    "values": [
+      1034.6,
+      2388.1,
+      6448.6,
+      10869.9,
+      12343.6,
+      6608.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "n-high",
+    "values": [
+      1011.5,
+      1011.5,
+      1011.5,
+      1011.5,
+      1011.5,
+      1011.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "n-low",
+    "values": [
+      1035.8,
+      2275.3,
+      5993.7,
+      12339.5,
+      14454.7,
+      7161.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "n-no",
+    "values": [
+      5915.1,
+      5915.1,
+      9398.3,
+      12881.5,
+      12881.5,
+      9398.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "n-urea",
+    "values": [
+      7271.0,
+      7271.0,
+      8951.3,
+      9864.6,
+      13592.2,
+      8108.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "r-f",
+    "values": [
+      4132.9,
+      4132.9,
+      4286.5,
+      4440.2,
+      4440.2,
+      4286.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "r-gm",
+    "values": [
+      5190.9,
+      5190.9,
+      5277.2,
+      5363.5,
+      5363.5,
+      5277.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "r-till",
+    "values": [
+      5199.8,
+      5199.8,
+      5199.8,
+      5199.8,
+      5199.8,
+      5199.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "straw",
+    "values": [
+      5199.8,
+      5199.8,
+      5199.8,
+      5199.8,
+      5199.8,
+      5199.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "var",
+    "values": [
+      1595.1,
+      4971.1,
+      15099.0,
+      15426.0,
+      15535.0,
+      10743.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR5",
+    "indicator": "var-d",
+    "values": [
+      13488.7,
+      13488.7,
+      14062.2,
+      14132.5,
+      14203.7,
+      11343.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "bioch",
+    "values": [
+      3189.8,
+      3381.5,
+      3628.3,
+      3914.4,
+      4224.0,
+      3667.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "duck",
+    "values": [
+      3763.0,
+      3965.8,
+      4460.2,
+      4968.6,
+      5710.0,
+      4514.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-awd",
+    "values": [
+      905.0,
+      3288.4,
+      10438.6,
+      10505.5,
+      10527.8,
+      7290.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-cf",
+    "values": [
+      2169.9,
+      7184.2,
+      12263.0,
+      14814.3,
+      17950.7,
+      11402.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-cfd",
+    "values": [
+      2313.0,
+      2313.0,
+      2765.7,
+      3218.5,
+      3218.5,
+      2765.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-cfdii",
+    "values": [
+      1127.4,
+      1127.4,
+      1127.4,
+      1127.4,
+      1127.4,
+      1127.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-ci",
+    "values": [
+      803.5,
+      3486.8,
+      3949.3,
+      5398.2,
+      5398.2,
+      4468.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-inter",
+    "values": [
+      5757.6,
+      5822.6,
+      5912.5,
+      6357.2,
+      7083.9,
+      5504.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-rf",
+    "values": [
+      847.5,
+      847.5,
+      1231.5,
+      1615.6,
+      1615.6,
+      1231.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "irr-swd",
+    "values": [
+      9591.3,
+      9591.3,
+      9591.3,
+      9591.3,
+      9591.3,
+      9591.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "n-conv",
+    "values": [
+      1024.8,
+      2341.0,
+      6289.4,
+      10579.2,
+      12009.2,
+      6441.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "n-high",
+    "values": [
+      1004.0,
+      1004.0,
+      1004.0,
+      1004.0,
+      1004.0,
+      1004.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "n-low",
+    "values": [
+      1022.7,
+      2228.1,
+      5844.2,
+      12003.7,
+      14056.8,
+      6974.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "n-no",
+    "values": [
+      5757.6,
+      5757.6,
+      9137.2,
+      12516.8,
+      12516.8,
+      9137.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "n-urea",
+    "values": [
+      7083.9,
+      7083.9,
+      8704.0,
+      9591.3,
+      13218.2,
+      7887.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "r-f",
+    "values": [
+      4044.1,
+      4044.1,
+      4190.1,
+      4336.1,
+      4336.1,
+      4190.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "r-gm",
+    "values": [
+      5076.3,
+      5076.3,
+      5155.7,
+      5235.2,
+      5235.2,
+      5155.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "r-till",
+    "values": [
+      5059.8,
+      5059.8,
+      5059.8,
+      5059.8,
+      5059.8,
+      5059.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "straw",
+    "values": [
+      5059.8,
+      5059.8,
+      5059.8,
+      5059.8,
+      5059.8,
+      5059.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "var",
+    "values": [
+      1615.6,
+      4929.8,
+      14872.5,
+      15195.2,
+      15302.7,
+      10596.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-AR6",
+    "indicator": "var-d",
+    "values": [
+      13285.3,
+      13285.3,
+      13842.9,
+      13919.6,
+      13990.5,
+      11177.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "bioch",
+    "values": [
+      2844.6,
+      2902.7,
+      3216.7,
+      3584.1,
+      3802.8,
+      3270.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "duck",
+    "values": [
+      3108.7,
+      3205.0,
+      3677.7,
+      3939.0,
+      4641.6,
+      3653.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-awd",
+    "values": [
+      838.6,
+      3097.2,
+      9873.1,
+      9884.6,
+      9888.4,
+      6866.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-cf",
+    "values": [
+      1770.9,
+      5654.7,
+      9536.7,
+      11567.0,
+      14537.7,
+      8993.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-cfd",
+    "values": [
+      1881.0,
+      1881.0,
+      2355.1,
+      2829.2,
+      2829.2,
+      2355.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-cfdii",
+    "values": [
+      974.6,
+      974.6,
+      974.6,
+      974.6,
+      974.6,
+      974.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-ci",
+    "values": [
+      3087.7,
+      3087.7,
+      3212.0,
+      4607.3,
+      6773.6,
+      3681.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-inter",
+    "values": [
+      4518.7,
+      4617.9,
+      4690.1,
+      5037.6,
+      5601.2,
+      4358.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-rf",
+    "values": [
+      915.3,
+      915.3,
+      1291.7,
+      1668.0,
+      1668.0,
+      1291.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "irr-swd",
+    "values": [
+      7459.6,
+      7459.6,
+      7459.6,
+      7459.6,
+      7459.6,
+      7459.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "n-conv",
+    "values": [
+      917.2,
+      1941.8,
+      5015.6,
+      8294.8,
+      9387.9,
+      5106.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "n-high",
+    "values": [
+      911.1,
+      911.1,
+      911.1,
+      911.1,
+      911.1,
+      911.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "n-low",
+    "values": [
+      894.8,
+      1833.8,
+      4651.0,
+      9374.5,
+      10949.0,
+      5498.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "n-no",
+    "values": [
+      4518.7,
+      4518.7,
+      7102.1,
+      9685.6,
+      9685.6,
+      7102.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "n-urea",
+    "values": [
+      5601.2,
+      5601.2,
+      6773.6,
+      7459.6,
+      7459.6,
+      6160.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "r-f",
+    "values": [
+      3308.8,
+      3308.8,
+      3400.7,
+      3492.6,
+      3492.6,
+      3400.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "r-gm",
+    "values": [
+      4134.6,
+      4134.6,
+      4167.6,
+      4200.6,
+      4200.6,
+      4167.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "r-till",
+    "values": [
+      3961.0,
+      3961.0,
+      3961.0,
+      3961.0,
+      3961.0,
+      3961.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "straw",
+    "values": [
+      3961.0,
+      3961.0,
+      3961.0,
+      3961.0,
+      3961.0,
+      3961.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "var",
+    "values": [
+      1668.0,
+      4448.1,
+      12788.3,
+      13069.4,
+      13163.1,
+      9206.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CO2e/ha-SAR",
+    "indicator": "var-d",
+    "values": [
+      11417.0,
+      11417.0,
+      11850.5,
+      11963.3,
+      12028.9,
+      9635.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "bioch",
+    "values": [
+      53.1,
+      66.4,
+      89.4,
+      113.5,
+      130.0,
+      90.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "duck",
+    "values": [
+      117.8,
+      133.6,
+      140.3,
+      165.3,
+      186.3,
+      148.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-awd",
+    "values": [
+      192.7,
+      194.6,
+      203.7,
+      208.5,
+      216.6,
+      174.1,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-cf",
+    "values": [
+      70.1,
+      246.0,
+      429.8,
+      507.1,
+      605.0,
+      387.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-cfd",
+    "values": [
+      6.0,
+      51.1,
+      112.3,
+      226.8,
+      385.0,
+      150.2,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-cfdii",
+    "values": [
+      30.9,
+      30.9,
+      30.9,
+      30.9,
+      30.9,
+      30.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-ci",
+    "values": [
+      18.8,
+      24.7,
+      141.3,
+      187.2,
+      314.6,
+      131.7,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-inter",
+    "values": [
+      200.8,
+      202.2,
+      205.5,
+      220.6,
+      247.1,
+      191.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-rf",
+    "values": [
+      4.8,
+      7.8,
+      10.8,
+      13.8,
+      16.8,
+      10.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-swd",
+    "values": [
+      243.5,
+      269.4,
+      295.3,
+      321.2,
+      347.1,
+      295.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "irr-tswd",
+    "values": [
+      200.3,
+      200.3,
+      200.3,
+      200.3,
+      200.3,
+      200.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "n-conv",
+    "values": [
+      24.9,
+      120.0,
+      215.1,
+      322.4,
+      429.8,
+      223.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "n-high",
+    "values": [
+      23.2,
+      23.2,
+      23.2,
+      23.2,
+      23.2,
+      23.2,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "n-low",
+    "values": [
+      27.0,
+      113.9,
+      200.8,
+      353.9,
+      507.1,
+      244.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "n-no",
+    "values": [
+      204.3,
+      267.7,
+      331.1,
+      394.5,
+      458.0,
+      331.1,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "n-pig",
+    "values": [
+      191.0,
+      199.0,
+      207.0,
+      296.0,
+      385.0,
+      261.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "n-urea",
+    "values": [
+      247.1,
+      247.1,
+      314.6,
+      347.1,
+      476.7,
+      282.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "r-f",
+    "values": [
+      129.8,
+      133.5,
+      137.3,
+      141.0,
+      144.8,
+      137.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "r-gm",
+    "values": [
+      164.9,
+      167.7,
+      170.6,
+      173.5,
+      176.4,
+      170.6,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "r-till",
+    "values": [
+      180.5,
+      180.5,
+      180.5,
+      180.5,
+      180.5,
+      180.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "straw",
+    "values": [
+      141.0,
+      150.9,
+      160.8,
+      170.6,
+      180.5,
+      160.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "var",
+    "values": [
+      16.8,
+      215.8,
+      414.7,
+      420.5,
+      426.2,
+      285.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg CH4/ha",
+    "indicator": "var-d",
+    "values": [
+      4.8,
+      125.8,
+      379.9,
+      389.8,
+      391.3,
+      265.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "bioch",
+    "values": [
+      1.9,
+      2.4,
+      3.6,
+      5.6,
+      8.7,
+      4.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "duck",
+    "values": [
+      0.8,
+      1.3,
+      1.7,
+      2.2,
+      2.4,
+      1.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-awd",
+    "values": [
+      1.4,
+      9.6,
+      17.7,
+      18.0,
+      18.3,
+      12.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-cf",
+    "values": [
+      0.066,
+      0.6,
+      1.0,
+      1.8,
+      2.3,
+      1.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-cfd",
+    "values": [
+      1.0,
+      1.6,
+      2.2,
+      2.8,
+      3.5,
+      2.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-cfdii",
+    "values": [
+      1.1,
+      1.1,
+      1.1,
+      1.1,
+      1.1,
+      1.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-ci",
+    "values": [
+      0.4,
+      0.5,
+      1.1,
+      4.4,
+      5.2,
+      2.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-inter",
+    "values": [
+      0.4,
+      0.8,
+      1.3,
+      1.3,
+      1.6,
+      1.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-rf",
+    "values": [
+      2.6,
+      3.0,
+      3.4,
+      3.8,
+      4.2,
+      3.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "irr-swd",
+    "values": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "n-conv",
+    "values": [
+      1.2,
+      1.2,
+      1.3,
+      1.4,
+      1.6,
+      1.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "n-high",
+    "values": [
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      1.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "n-low",
+    "values": [
+      1.0,
+      1.0,
+      1.1,
+      1.2,
+      1.4,
+      1.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "n-no",
+    "values": [
+      0.2,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "n-urea",
+    "values": [
+      0.2,
+      0.5,
+      0.6,
+      0.9,
+      1.3,
+      0.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "r-f",
+    "values": [
+      1.5,
+      1.6,
+      1.7,
+      1.8,
+      1.9,
+      1.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "r-gm",
+    "values": [
+      1.6,
+      1.7,
+      1.9,
+      2.0,
+      2.2,
+      1.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "r-till",
+    "values": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "straw",
+    "values": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "var",
+    "values": [
+      4.2,
+      8.7,
+      13.2,
+      13.4,
+      13.6,
+      10.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_kg N2O/ha",
+    "indicator": "var-d",
+    "values": [
+      1.9,
+      4.9,
+      11.7,
+      12.1,
+      12.4,
+      8.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "bioch",
+    "values": [
+      6164.7,
+      6164.7,
+      6164.7,
+      6164.7,
+      6164.7,
+      6164.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "irr-cf",
+    "values": [
+      3374.5,
+      7926.4,
+      11703.9,
+      21428.6,
+      35347.9,
+      15276.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "irr-cfd",
+    "values": [
+      4631.9,
+      4948.2,
+      6046.3,
+      9486.4,
+      14030.8,
+      7956.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "irr-cfdii",
+    "values": [
+      6667.1,
+      7715.3,
+      10859.9,
+      10910.7,
+      10927.6,
+      9484.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "irr-inter",
+    "values": [
+      3467.4,
+      3617.8,
+      4069.1,
+      4694.5,
+      4903.0,
+      4146.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "irr-rf",
+    "values": [
+      2984.8,
+      2984.8,
+      2984.8,
+      2984.8,
+      2984.8,
+      2984.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "irr-swd",
+    "values": [
+      6982.5,
+      8445.9,
+      17589.2,
+      26543.9,
+      27441.5,
+      17400.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "irr-tswd",
+    "values": [
+      14277.7,
+      14277.7,
+      14820.5,
+      15363.3,
+      15363.3,
+      14820.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "n-conv",
+    "values": [
+      4069.1,
+      4069.1,
+      6131.4,
+      8193.7,
+      8193.7,
+      6131.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "n-high",
+    "values": [
+      4903.0,
+      4903.0,
+      6414.7,
+      7926.4,
+      7926.4,
+      6414.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "n-low",
+    "values": [
+      3467.4,
+      3467.4,
+      5541.9,
+      7616.5,
+      7616.5,
+      5541.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "n-no",
+    "values": [
+      3494.9,
+      3494.9,
+      5969.5,
+      8444.2,
+      8444.2,
+      5969.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "n-urea",
+    "values": [
+      6164.7,
+      14277.7,
+      24002.1,
+      27441.5,
+      35347.9,
+      21115.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "r-till",
+    "values": [
+      8737.6,
+      9162.8,
+      9198.5,
+      11293.9,
+      13808.0,
+      10440.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "straw",
+    "values": [
+      5697.8,
+      7763.7,
+      9162.8,
+      11906.8,
+      16731.8,
+      10932.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "nostraw",
+    "values": [
+      5034.5,
+      5453.2,
+      6709.3,
+      6979.6,
+      7069.8,
+      6271.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "notill",
+    "values": [
+      9035.2,
+      9035.2,
+      9035.2,
+      9035.2,
+      9035.2,
+      9035.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "ratoon",
+    "values": [
+      493.2,
+      1159.6,
+      4825.1,
+      9414.2,
+      10533.4,
+      5714.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR4",
+    "indicator": "till",
+    "values": [
+      5034.5,
+      5532.0,
+      6203.6,
+      7050.2,
+      8072.8,
+      6378.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "bioch",
+    "values": [
+      6500.2,
+      6500.2,
+      6500.2,
+      6500.2,
+      6500.2,
+      6500.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "irr-cf",
+    "values": [
+      3719.6,
+      8744.9,
+      13003.9,
+      23901.8,
+      39579.1,
+      17034.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "irr-cfd",
+    "values": [
+      5180.4,
+      5536.7,
+      6749.6,
+      10604.9,
+      15588.0,
+      8861.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "irr-cfdii",
+    "values": [
+      7127.5,
+      8330.0,
+      11937.6,
+      11986.2,
+      12002.4,
+      10355.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "irr-inter",
+    "values": [
+      3725.3,
+      3878.3,
+      4337.4,
+      5053.8,
+      5292.6,
+      4451.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "irr-rf",
+    "values": [
+      3300.3,
+      3300.3,
+      3300.3,
+      3300.3,
+      3300.3,
+      3300.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "irr-swd",
+    "values": [
+      7803.2,
+      9228.2,
+      19541.7,
+      29714.0,
+      30715.1,
+      19400.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "irr-tswd",
+    "values": [
+      15962.2,
+      15962.2,
+      16570.9,
+      17179.6,
+      17179.6,
+      16570.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "n-conv",
+    "values": [
+      4337.4,
+      4337.4,
+      6709.4,
+      9081.4,
+      9081.4,
+      6709.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "n-high",
+    "values": [
+      5292.6,
+      5292.6,
+      7018.7,
+      8744.9,
+      8744.9,
+      7018.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "n-low",
+    "values": [
+      3725.3,
+      3725.3,
+      6067.4,
+      8409.4,
+      8409.4,
+      6067.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "n-no",
+    "values": [
+      3789.1,
+      3789.1,
+      6566.6,
+      9344.1,
+      9344.1,
+      6566.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "n-urea",
+    "values": [
+      6500.2,
+      15962.2,
+      26216.8,
+      30715.1,
+      39579.1,
+      23475.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "r-till",
+    "values": [
+      9703.6,
+      9992.9,
+      10236.9,
+      12353.5,
+      15224.3,
+      11502.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "straw",
+    "values": [
+      6305.9,
+      8593.3,
+      9992.9,
+      13231.8,
+      18714.1,
+      12070.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "nostraw",
+    "values": [
+      5535.5,
+      5959.8,
+      7232.5,
+      7456.9,
+      7531.7,
+      6766.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "notill",
+    "values": [
+      9574.8,
+      9574.8,
+      9574.8,
+      9574.8,
+      9574.8,
+      9574.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "ratoon",
+    "values": [
+      540.7,
+      1274.6,
+      5063.8,
+      10448.4,
+      11674.4,
+      6263.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR5",
+    "indicator": "till",
+    "values": [
+      5535.5,
+      6113.3,
+      6769.2,
+      7622.9,
+      8794.0,
+      6967.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "bioch",
+    "values": [
+      6406.0,
+      6406.0,
+      6406.0,
+      6406.0,
+      6406.0,
+      6406.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "irr-cf",
+    "values": [
+      3626.9,
+      8525.1,
+      12656.0,
+      23241.1,
+      38450.7,
+      16564.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "irr-cfd",
+    "values": [
+      5034.0,
+      5379.7,
+      6561.8,
+      10306.4,
+      15171.3,
+      8619.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "irr-cfdii",
+    "values": [
+      7000.8,
+      8162.5,
+      11647.6,
+      11696.7,
+      11713.0,
+      10120.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "irr-inter",
+    "values": [
+      3654.7,
+      3806.9,
+      4263.3,
+      4955.6,
+      5186.4,
+      4368.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "irr-rf",
+    "values": [
+      3215.7,
+      3215.7,
+      3215.7,
+      3215.7,
+      3215.7,
+      3215.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "irr-swd",
+    "values": [
+      7584.2,
+      9016.9,
+      19019.2,
+      28868.5,
+      29841.9,
+      18866.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "irr-tswd",
+    "values": [
+      15512.6,
+      15512.6,
+      16103.8,
+      16695.0,
+      16695.0,
+      16103.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "n-conv",
+    "values": [
+      4263.3,
+      4263.3,
+      6553.4,
+      8843.6,
+      8843.6,
+      6553.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "n-high",
+    "values": [
+      5186.4,
+      5186.4,
+      6855.7,
+      8525.1,
+      8525.1,
+      6855.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "n-low",
+    "values": [
+      3654.7,
+      3654.7,
+      5925.6,
+      8196.6,
+      8196.6,
+      5925.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "n-no",
+    "values": [
+      3709.2,
+      3709.2,
+      6406.0,
+      9102.8,
+      9102.8,
+      6406.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "n-urea",
+    "values": [
+      6406.0,
+      15512.6,
+      25618.5,
+      29841.9,
+      38450.7,
+      22844.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "r-till",
+    "values": [
+      9445.0,
+      9777.5,
+      9950.1,
+      12067.5,
+      14843.8,
+      11216.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "straw",
+    "values": [
+      6142.9,
+      8370.9,
+      9777.5,
+      12877.2,
+      18185.2,
+      11765.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "nostraw",
+    "values": [
+      5400.7,
+      5823.0,
+      7089.7,
+      7325.4,
+      7404.0,
+      6631.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "notill",
+    "values": [
+      9424.6,
+      9424.6,
+      9424.6,
+      9424.6,
+      9424.6,
+      9424.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "ratoon",
+    "values": [
+      527.9,
+      1243.7,
+      4996.2,
+      10171.5,
+      11368.7,
+      6115.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-AR6",
+    "indicator": "till",
+    "values": [
+      5400.7,
+      5957.3,
+      6616.3,
+      7467.0,
+      8598.8,
+      6808.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "bioch",
+    "values": [
+      5529.3,
+      5529.3,
+      5529.3,
+      5529.3,
+      5529.3,
+      5529.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "irr-cf",
+    "values": [
+      2886.5,
+      6773.4,
+      9921.9,
+      18085.4,
+      29701.3,
+      12896.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "irr-cfd",
+    "values": [
+      3897.2,
+      4161.2,
+      5098.1,
+      7985.9,
+      11895.7,
+      6726.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "irr-cfdii",
+    "values": [
+      5895.2,
+      6750.9,
+      9318.1,
+      9367.9,
+      9384.5,
+      8199.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "irr-inter",
+    "values": [
+      3049.9,
+      3189.7,
+      3609.0,
+      4120.5,
+      4291.0,
+      3650.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "irr-rf",
+    "values": [
+      2544.2,
+      2544.2,
+      2544.2,
+      2544.2,
+      2544.2,
+      2544.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "irr-swd",
+    "values": [
+      5880.2,
+      7295.2,
+      14912.2,
+      22310.0,
+      23067.7,
+      14693.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "irr-tswd",
+    "values": [
+      12018.4,
+      12018.4,
+      12473.6,
+      12928.9,
+      12928.9,
+      12473.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "n-conv",
+    "values": [
+      3609.0,
+      3609.0,
+      5287.4,
+      6965.7,
+      6965.7,
+      5287.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "n-high",
+    "values": [
+      4291.0,
+      4291.0,
+      5532.2,
+      6773.4,
+      6773.4,
+      5532.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "n-low",
+    "values": [
+      3049.9,
+      3049.9,
+      4776.4,
+      6502.9,
+      6502.9,
+      4776.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "n-no",
+    "values": [
+      3044.3,
+      3044.3,
+      5118.0,
+      7191.6,
+      7191.6,
+      5118.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "n-urea",
+    "values": [
+      5529.3,
+      12018.4,
+      20739.5,
+      23067.7,
+      29701.3,
+      17887.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "r-till",
+    "values": [
+      7411.2,
+      7718.8,
+      7995.3,
+      9743.5,
+      11807.6,
+      8935.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "straw",
+    "values": [
+      4851.8,
+      6610.1,
+      7718.8,
+      10091.8,
+      14076.8,
+      9333.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "nostraw",
+    "values": [
+      4318.5,
+      4709.0,
+      5880.5,
+      6175.6,
+      6274.0,
+      5491.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "notill",
+    "values": [
+      8062.2,
+      8062.2,
+      8062.2,
+      8062.2,
+      8062.2,
+      8062.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "ratoon",
+    "values": [
+      424.4,
+      994.9,
+      4348.5,
+      7990.9,
+      8954.9,
+      4919.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CO2e/ha-SAR",
+    "indicator": "till",
+    "values": [
+      4318.5,
+      4718.5,
+      5366.2,
+      6159.4,
+      6996.0,
+      5511.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "bioch",
+    "values": [
+      176.5,
+      176.5,
+      176.5,
+      176.5,
+      176.5,
+      176.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "irr-cf",
+    "values": [
+      124.6,
+      298.3,
+      450.1,
+      831.3,
+      1412.1,
+      598.1,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "irr-cfd",
+    "values": [
+      184.0,
+      197.0,
+      238.0,
+      376.0,
+      539.3,
+      309.6,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "irr-cfdii",
+    "values": [
+      207.8,
+      301.6,
+      395.3,
+      395.7,
+      396.1,
+      333.1,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "irr-inter",
+    "values": [
+      111.3,
+      118.0,
+      124.6,
+      143.1,
+      161.7,
+      132.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "irr-rf",
+    "values": [
+      112.0,
+      112.0,
+      112.0,
+      112.0,
+      112.0,
+      112.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "irr-swd",
+    "values": [
+      276.3,
+      297.8,
+      676.2,
+      1059.1,
+      1094.3,
+      680.7,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "irr-tswd",
+    "values": [
+      566.1,
+      577.0,
+      588.0,
+      598.9,
+      609.8,
+      588.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "n-conv",
+    "values": [
+      124.6,
+      171.3,
+      217.9,
+      264.5,
+      311.2,
+      217.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "n-high",
+    "values": [
+      161.7,
+      194.8,
+      227.9,
+      261.0,
+      294.1,
+      227.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "n-low",
+    "values": [
+      111.3,
+      154.4,
+      197.5,
+      240.6,
+      283.7,
+      197.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "n-no",
+    "values": [
+      118.1,
+      168.1,
+      218.1,
+      268.1,
+      318.1,
+      218.1,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "n-urea",
+    "values": [
+      176.5,
+      566.1,
+      844.7,
+      1094.3,
+      1412.1,
+      814.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "r-till",
+    "values": [
+      289.0,
+      319.5,
+      348.7,
+      390.9,
+      400.5,
+      368.6,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "straw",
+    "values": [
+      214.8,
+      293.1,
+      335.2,
+      439.0,
+      477.5,
+      407.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "nostraw",
+    "values": [
+      183.5,
+      199.7,
+      215.8,
+      217.7,
+      219.5,
+      206.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "notill",
+    "values": [
+      267.0,
+      267.0,
+      267.0,
+      267.0,
+      267.0,
+      267.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "ratoon",
+    "values": [
+      17.7,
+      42.2,
+      134.0,
+      360.0,
+      400.0,
+      204.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg CH4/ha",
+    "indicator": "till",
+    "values": [
+      183.5,
+      207.0,
+      217.2,
+      234.6,
+      219.5,
+      224.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "bioch",
+    "values": [
+      5.9,
+      5.9,
+      5.9,
+      5.9,
+      5.9,
+      5.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-awd",
+    "values": [
+      0.4,
+      0.5,
+      0.5,
+      0.6,
+      0.7,
+      0.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-cf",
+    "values": [
+      -0.2,
+      0.086,
+      0.9,
+      1.7,
+      3.0,
+      1.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-cfd",
+    "values": [
+      0.078,
+      0.1,
+      0.3,
+      1.7,
+      2.0,
+      0.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-cfdii",
+    "values": [
+      3.3,
+      3.4,
+      3.4,
+      4.2,
+      4.9,
+      3.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-inter",
+    "values": [
+      1.8,
+      2.2,
+      2.6,
+      3.0,
+      3.2,
+      2.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-rf",
+    "values": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-swd",
+    "values": [
+      0.2,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "irr-tswd",
+    "values": [
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      0.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "n-conv",
+    "values": [
+      1.4,
+      1.8,
+      2.3,
+      2.7,
+      3.2,
+      2.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "n-high",
+    "values": [
+      1.9,
+      2.2,
+      2.4,
+      2.7,
+      2.9,
+      2.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "n-low",
+    "values": [
+      1.8,
+      1.9,
+      2.0,
+      2.2,
+      2.3,
+      2.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "n-no",
+    "values": [
+      1.7,
+      1.7,
+      1.7,
+      1.8,
+      1.8,
+      1.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "n-pig",
+    "values": [
+      0.2,
+      0.3,
+      0.4,
+      0.6,
+      0.7,
+      0.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "n-urea",
+    "values": [
+      0.067,
+      0.2,
+      0.4,
+      3.0,
+      5.9,
+      2.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "r-till",
+    "values": [
+      0.4,
+      1.2,
+      3.5,
+      4.3,
+      4.5,
+      2.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "straw",
+    "values": [
+      0.4,
+      0.7,
+      1.2,
+      4.0,
+      4.5,
+      2.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "nostraw",
+    "values": [
+      1.5,
+      2.8,
+      4.1,
+      4.9,
+      5.6,
+      3.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "notill",
+    "values": [
+      7.9,
+      7.9,
+      7.9,
+      7.9,
+      7.9,
+      7.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "ratoon",
+    "values": [
+      0.2,
+      0.4,
+      1.8,
+      2.5,
+      5.6,
+      2.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_kg N2O/ha",
+    "indicator": "till",
+    "values": [
+      1.1,
+      1.4,
+      2.6,
+      3.7,
+      4.1,
+      2.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR4",
+    "indicator": "irr-ci",
+    "values": [
+      848.5,
+      848.5,
+      1262.3,
+      1676.1,
+      1676.1,
+      1262.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR4",
+    "indicator": "n-conv",
+    "values": [
+      1676.1,
+      1676.1,
+      1676.1,
+      1676.1,
+      1676.1,
+      1676.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR4",
+    "indicator": "n-no",
+    "values": [
+      848.5,
+      848.5,
+      848.5,
+      848.5,
+      848.5,
+      848.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR4",
+    "indicator": "bdf",
+    "values": [
+      832.4,
+      1313.0,
+      1971.2,
+      2711.3,
+      3437.8,
+      2053.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR4",
+    "indicator": "rpf",
+    "values": [
+      848.5,
+      857.8,
+      1268.5,
+      1736.8,
+      1918.9,
+      1326.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR5",
+    "indicator": "irr-ci",
+    "values": [
+      863.0,
+      863.0,
+      1208.2,
+      1553.4,
+      1553.4,
+      1208.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR5",
+    "indicator": "n-conv",
+    "values": [
+      1553.4,
+      1553.4,
+      1553.4,
+      1553.4,
+      1553.4,
+      1553.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR5",
+    "indicator": "n-no",
+    "values": [
+      863.0,
+      863.0,
+      863.0,
+      863.0,
+      863.0,
+      863.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR5",
+    "indicator": "bdf",
+    "values": [
+      878.7,
+      1281.8,
+      2084.3,
+      3020.5,
+      3824.9,
+      2218.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR5",
+    "indicator": "rpf",
+    "values": [
+      863.0,
+      897.6,
+      1231.3,
+      1637.3,
+      1889.3,
+      1303.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR6",
+    "indicator": "irr-ci",
+    "values": [
+      858.1,
+      858.1,
+      1220.2,
+      1582.3,
+      1582.3,
+      1220.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR6",
+    "indicator": "n-conv",
+    "values": [
+      1582.3,
+      1582.3,
+      1582.3,
+      1582.3,
+      1582.3,
+      1582.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR6",
+    "indicator": "n-no",
+    "values": [
+      858.1,
+      858.1,
+      858.1,
+      858.1,
+      858.1,
+      858.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR6",
+    "indicator": "bdf",
+    "values": [
+      865.7,
+      1287.9,
+      2052.7,
+      2937.8,
+      3721.3,
+      2173.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-AR6",
+    "indicator": "rpf",
+    "values": [
+      858.1,
+      886.3,
+      1239.0,
+      1660.3,
+      1894.2,
+      1307.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-SAR",
+    "indicator": "irr-ci",
+    "values": [
+      788.5,
+      788.5,
+      1238.8,
+      1689.0,
+      1689.0,
+      1238.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-SAR",
+    "indicator": "n-conv",
+    "values": [
+      1689.0,
+      1689.0,
+      1689.0,
+      1689.0,
+      1689.0,
+      1689.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-SAR",
+    "indicator": "n-no",
+    "values": [
+      788.5,
+      788.5,
+      788.5,
+      788.5,
+      788.5,
+      788.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-SAR",
+    "indicator": "bdf",
+    "values": [
+      745.8,
+      1266.8,
+      1762.9,
+      2291.5,
+      2909.8,
+      1795.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CO2e/ha-SAR",
+    "indicator": "rpf",
+    "values": [
+      770.9,
+      784.1,
+      1238.8,
+      1726.1,
+      1837.5,
+      1271.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CH4/ha",
+    "indicator": "irr-ci",
+    "values": [
+      10.9,
+      12.9,
+      14.9,
+      16.8,
+      18.8,
+      14.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CH4/ha",
+    "indicator": "n-conv",
+    "values": [
+      10.9,
+      10.9,
+      10.9,
+      10.9,
+      10.9,
+      10.9,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CH4/ha",
+    "indicator": "n-no",
+    "values": [
+      18.8,
+      18.8,
+      18.8,
+      18.8,
+      18.8,
+      18.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CH4/ha",
+    "indicator": "bdf",
+    "values": [
+      18.4,
+      22.6,
+      60.3,
+      105.7,
+      133.1,
+      68.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg CH4/ha",
+    "indicator": "rpf",
+    "values": [
+      10.9,
+      16.8,
+      21.9,
+      26.6,
+      31.7,
+      21.6,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg N2O/ha",
+    "indicator": "irr-ci",
+    "values": [
+      1.3,
+      2.1,
+      3.0,
+      3.9,
+      4.7,
+      3.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg N2O/ha",
+    "indicator": "n-conv",
+    "values": [
+      4.7,
+      4.7,
+      4.7,
+      4.7,
+      4.7,
+      4.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg N2O/ha",
+    "indicator": "n-no",
+    "values": [
+      1.3,
+      1.3,
+      1.3,
+      1.3,
+      1.3,
+      1.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg N2O/ha",
+    "indicator": "bdf",
+    "values": [
+      0.2,
+      0.3,
+      0.6,
+      1.4,
+      0.8,
+      1.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_kg N2O/ha",
+    "indicator": "rpf",
+    "values": [
+      0.8,
+      1.2,
+      2.5,
+      4.0,
+      4.7,
+      2.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR4",
+    "indicator": "irr-awd",
+    "values": [
+      6137.9,
+      6137.9,
+      9509.4,
+      12880.9,
+      12880.9,
+      9509.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR4",
+    "indicator": "irr-cf",
+    "values": [
+      13749.2,
+      13749.2,
+      21249.2,
+      28749.3,
+      28749.3,
+      21249.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR4",
+    "indicator": "irr-inter",
+    "values": [
+      12691.0,
+      12768.9,
+      13002.9,
+      13259.6,
+      13345.2,
+      13013.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR4",
+    "indicator": "irr-rf",
+    "values": [
+      3749.4,
+      6488.5,
+      9983.3,
+      10252.7,
+      10581.6,
+      8211.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR4",
+    "indicator": "var-d",
+    "values": [
+      1552.4,
+      1552.4,
+      1552.4,
+      1552.4,
+      1552.4,
+      1552.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR4",
+    "indicator": "notill",
+    "values": [
+      1793.8,
+      1793.8,
+      1793.8,
+      1793.8,
+      1793.8,
+      1793.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR5",
+    "indicator": "irr-awd",
+    "values": [
+      6398.6,
+      6398.6,
+      10070.5,
+      13742.4,
+      13742.4,
+      10070.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR5",
+    "indicator": "irr-cf",
+    "values": [
+      15089.0,
+      15089.0,
+      23334.7,
+      31580.3,
+      31580.3,
+      23334.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR5",
+    "indicator": "irr-inter",
+    "values": [
+      14126.6,
+      14217.7,
+      14491.1,
+      14773.4,
+      14867.6,
+      14495.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR5",
+    "indicator": "irr-rf",
+    "values": [
+      3603.2,
+      6312.0,
+      11036.9,
+      11335.9,
+      11698.7,
+      8797.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR5",
+    "indicator": "var-d",
+    "values": [
+      1693.3,
+      1693.3,
+      1693.3,
+      1693.3,
+      1693.3,
+      1693.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR5",
+    "indicator": "notill",
+    "values": [
+      1966.4,
+      1966.4,
+      1966.4,
+      1966.4,
+      1966.4,
+      1966.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR6",
+    "indicator": "irr-awd",
+    "values": [
+      6323.6,
+      6323.6,
+      9914.1,
+      13504.7,
+      13504.7,
+      9914.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR6",
+    "indicator": "irr-cf",
+    "values": [
+      14728.1,
+      14728.1,
+      22773.2,
+      30818.2,
+      30818.2,
+      22773.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR6",
+    "indicator": "irr-inter",
+    "values": [
+      13742.7,
+      13830.4,
+      14093.4,
+      14368.8,
+      14460.7,
+      14098.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR6",
+    "indicator": "irr-rf",
+    "values": [
+      3635.2,
+      6348.0,
+      10754.3,
+      11045.3,
+      11399.0,
+      8636.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR6",
+    "indicator": "var-d",
+    "values": [
+      1655.2,
+      1655.2,
+      1655.2,
+      1655.2,
+      1655.2,
+      1655.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-AR6",
+    "indicator": "notill",
+    "values": [
+      1919.9,
+      1919.9,
+      1919.9,
+      1919.9,
+      1919.9,
+      1919.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-SAR",
+    "indicator": "irr-awd",
+    "values": [
+      5568.8,
+      5568.8,
+      8491.3,
+      11413.7,
+      11413.7,
+      8491.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-SAR",
+    "indicator": "irr-cf",
+    "values": [
+      11818.5,
+      11818.5,
+      18252.5,
+      24686.5,
+      24686.5,
+      18252.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-SAR",
+    "indicator": "irr-inter",
+    "values": [
+      10736.2,
+      10798.4,
+      10985.1,
+      11205.2,
+      11278.6,
+      11000.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-SAR",
+    "indicator": "irr-rf",
+    "values": [
+      3666.9,
+      6279.3,
+      8511.3,
+      8740.0,
+      9021.0,
+      7243.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-SAR",
+    "indicator": "var-d",
+    "values": [
+      1343.4,
+      1343.4,
+      1343.4,
+      1343.4,
+      1343.4,
+      1343.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CO2e/ha-SAR",
+    "indicator": "notill",
+    "values": [
+      1543.8,
+      1543.8,
+      1543.8,
+      1543.8,
+      1543.8,
+      1543.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CH4/ha",
+    "indicator": "irr-awd",
+    "values": [
+      163.0,
+      221.4,
+      279.8,
+      338.2,
+      396.6,
+      279.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CH4/ha",
+    "indicator": "irr-cf",
+    "values": [
+      496.2,
+      632.8,
+      769.5,
+      906.1,
+      1042.7,
+      769.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CH4/ha",
+    "indicator": "irr-inter",
+    "values": [
+      492.5,
+      500.1,
+      507.6,
+      513.9,
+      520.1,
+      506.7,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CH4/ha",
+    "indicator": "irr-rf",
+    "values": [
+      46.6,
+      94.0,
+      374.3,
+      384.6,
+      396.8,
+      259.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CH4/ha",
+    "indicator": "var-d",
+    "values": [
+      54.2,
+      54.2,
+      54.2,
+      54.2,
+      54.2,
+      54.2,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg CH4/ha",
+    "indicator": "notill",
+    "values": [
+      64.4,
+      64.4,
+      64.4,
+      64.4,
+      64.4,
+      64.4,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg N2O/ha",
+    "indicator": "irr-awd",
+    "values": [
+      6.9,
+      7.7,
+      8.4,
+      9.2,
+      10.0,
+      8.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg N2O/ha",
+    "indicator": "irr-cf",
+    "values": [
+      4.5,
+      5.6,
+      6.8,
+      7.9,
+      9.0,
+      6.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg N2O/ha",
+    "indicator": "irr-inter",
+    "values": [
+      1.1,
+      1.1,
+      1.2,
+      1.2,
+      1.3,
+      1.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg N2O/ha",
+    "indicator": "irr-rf",
+    "values": [
+      2.1,
+      2.1,
+      2.2,
+      8.7,
+      13.9,
+      5.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg N2O/ha",
+    "indicator": "var-d",
+    "values": [
+      0.7,
+      0.7,
+      0.7,
+      0.7,
+      0.7,
+      0.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_kg N2O/ha",
+    "indicator": "notill",
+    "values": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "bioch",
+    "values": [
+      2433.5,
+      2454.4,
+      3825.7,
+      5317.2,
+      5698.7,
+      3945.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "duck",
+    "values": [
+      3957.0,
+      3963.9,
+      5064.0,
+      6310.6,
+      6757.1,
+      5210.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "irr-cf",
+    "values": [
+      2269.4,
+      2347.1,
+      4788.1,
+      5129.9,
+      8553.0,
+      4617.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "irr-ci",
+    "values": [
+      549.4,
+      803.1,
+      1179.7,
+      2004.9,
+      2563.3,
+      1416.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "irr-swd",
+    "values": [
+      1007.0,
+      1007.0,
+      1007.0,
+      1007.0,
+      1007.0,
+      1007.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "n-conv",
+    "values": [
+      652.8,
+      1479.3,
+      4350.6,
+      7101.6,
+      8028.9,
+      4327.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "n-high",
+    "values": [
+      666.9,
+      969.5,
+      1877.4,
+      2229.7,
+      2347.1,
+      1630.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "n-low",
+    "values": [
+      6159.7,
+      4804.4,
+      6224.2,
+      6707.8,
+      7964.9,
+      5287.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "n-no",
+    "values": [
+      6538.9,
+      6634.3,
+      6920.4,
+      7506.1,
+      7701.3,
+      7053.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "r-till",
+    "values": [
+      2565.7,
+      3679.6,
+      7021.4,
+      7793.7,
+      8051.1,
+      5879.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "straw",
+    "values": [
+      2565.7,
+      4367.6,
+      6939.5,
+      7868.6,
+      11487.2,
+      7315.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "nostraw",
+    "values": [
+      2029.5,
+      2037.5,
+      2061.4,
+      6328.1,
+      7750.3,
+      3947.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "notill",
+    "values": [
+      7750.3,
+      8448.3,
+      9117.3,
+      10037.0,
+      11487.2,
+      9368.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "till",
+    "values": [
+      13554.5,
+      13554.5,
+      13554.5,
+      13554.5,
+      13554.5,
+      13554.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "d-ditch",
+    "values": [
+      1667.3,
+      1695.1,
+      1778.5,
+      3555.2,
+      4147.5,
+      2531.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "d-mulch",
+    "values": [
+      5523.6,
+      5523.6,
+      9789.9,
+      14056.3,
+      14056.3,
+      9789.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "n-crf",
+    "values": [
+      5888.7,
+      6660.6,
+      7207.3,
+      7544.0,
+      7660.2,
+      7028.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "s-ditch",
+    "values": [
+      1525.1,
+      1552.6,
+      1635.2,
+      3354.3,
+      3927.3,
+      2362.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR4",
+    "indicator": "s-mulch",
+    "values": [
+      5008.2,
+      5008.2,
+      5008.2,
+      5008.2,
+      5008.2,
+      5008.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "bioch",
+    "values": [
+      2366.9,
+      2379.1,
+      3947.0,
+      5664.2,
+      6124.0,
+      4096.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "duck",
+    "values": [
+      4286.1,
+      4318.6,
+      5550.3,
+      6945.6,
+      7469.0,
+      5713.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "irr-cf",
+    "values": [
+      2433.7,
+      2469.2,
+      5296.6,
+      5707.7,
+      9512.0,
+      5083.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "irr-ci",
+    "values": [
+      542.4,
+      839.8,
+      1163.4,
+      1871.9,
+      2401.3,
+      1367.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "irr-swd",
+    "values": [
+      1084.5,
+      1084.5,
+      1084.5,
+      1084.5,
+      1084.5,
+      1084.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "n-conv",
+    "values": [
+      645.8,
+      1393.5,
+      4731.4,
+      7768.9,
+      8818.5,
+      4681.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "n-high",
+    "values": [
+      658.3,
+      927.9,
+      1736.8,
+      2286.1,
+      2469.2,
+      1621.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "n-low",
+    "values": [
+      6752.5,
+      5251.6,
+      6841.5,
+      7401.3,
+      8813.4,
+      5811.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "n-no",
+    "values": [
+      7285.8,
+      7396.5,
+      7728.8,
+      8383.8,
+      8602.1,
+      7872.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "r-till",
+    "values": [
+      2743.7,
+      3950.0,
+      7569.0,
+      8406.6,
+      8685.8,
+      6332.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "straw",
+    "values": [
+      2612.9,
+      4780.6,
+      7629.2,
+      8613.5,
+      12805.2,
+      8071.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "nostraw",
+    "values": [
+      2231.2,
+      2238.5,
+      2260.5,
+      7032.1,
+      8622.6,
+      4371.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "notill",
+    "values": [
+      8622.6,
+      9182.6,
+      9843.5,
+      10939.6,
+      12805.2,
+      10278.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "till",
+    "values": [
+      15128.1,
+      15128.1,
+      15128.1,
+      15128.1,
+      15128.1,
+      15128.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "d-ditch",
+    "values": [
+      1767.0,
+      1803.8,
+      1914.2,
+      3904.2,
+      4567.5,
+      2749.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "d-mulch",
+    "values": [
+      6123.3,
+      6123.3,
+      10929.5,
+      15735.8,
+      15735.8,
+      10929.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "n-crf",
+    "values": [
+      6482.6,
+      7272.8,
+      7943.6,
+      8346.9,
+      8450.2,
+      7739.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "s-ditch",
+    "values": [
+      1615.9,
+      1652.3,
+      1761.3,
+      3683.6,
+      4324.4,
+      2567.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR5",
+    "indicator": "s-mulch",
+    "values": [
+      5520.8,
+      5520.8,
+      5520.8,
+      5520.8,
+      5520.8,
+      5520.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "bioch",
+    "values": [
+      2387.6,
+      2391.3,
+      3907.2,
+      5568.3,
+      6007.6,
+      4052.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "duck",
+    "values": [
+      4196.6,
+      4222.6,
+      5419.2,
+      6774.8,
+      7278.0,
+      5578.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "irr-cf",
+    "values": [
+      2388.6,
+      2434.8,
+      5160.3,
+      5553.2,
+      9255.5,
+      4958.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "irr-ci",
+    "values": [
+      543.4,
+      829.3,
+      1165.9,
+      1903.0,
+      2439.1,
+      1378.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "irr-swd",
+    "values": [
+      1063.3,
+      1063.3,
+      1063.3,
+      1063.3,
+      1063.3,
+      1063.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "n-conv",
+    "values": [
+      646.7,
+      1413.3,
+      4628.2,
+      7588.8,
+      8605.9,
+      4585.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "n-high",
+    "values": [
+      659.5,
+      937.2,
+      1770.1,
+      2268.6,
+      2434.8,
+      1621.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "n-low",
+    "values": [
+      6592.7,
+      5130.8,
+      6675.4,
+      7215.1,
+      8585.9,
+      5670.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "n-no",
+    "values": [
+      7086.2,
+      7192.9,
+      7513.0,
+      8149.5,
+      8361.6,
+      7653.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "r-till",
+    "values": [
+      2694.7,
+      3875.9,
+      7419.6,
+      8239.4,
+      8512.7,
+      6209.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "straw",
+    "values": [
+      2613.0,
+      4669.2,
+      7443.6,
+      8412.5,
+      12453.0,
+      7868.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "nostraw",
+    "values": [
+      2185.0,
+      2188.5,
+      2198.8,
+      6841.7,
+      8389.3,
+      4257.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "notill",
+    "values": [
+      8389.3,
+      8983.5,
+      9645.6,
+      10695.4,
+      12453.0,
+      10033.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "till",
+    "values": [
+      14707.8,
+      14707.8,
+      14707.8,
+      14707.8,
+      14707.8,
+      14707.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "d-ditch",
+    "values": [
+      1739.3,
+      1773.7,
+      1877.1,
+      3810.2,
+      4454.6,
+      2690.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "d-mulch",
+    "values": [
+      5962.6,
+      5962.6,
+      10625.2,
+      15287.9,
+      15287.9,
+      10625.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "n-crf",
+    "values": [
+      6322.9,
+      7107.4,
+      7745.7,
+      8131.6,
+      8238.0,
+      7548.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "s-ditch",
+    "values": [
+      1590.6,
+      1624.7,
+      1726.9,
+      3594.9,
+      4217.6,
+      2511.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-AR6",
+    "indicator": "s-mulch",
+    "values": [
+      5383.1,
+      5383.1,
+      5383.1,
+      5383.1,
+      5383.1,
+      5383.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "bioch",
+    "values": [
+      2341.4,
+      2389.8,
+      3513.8,
+      4719.0,
+      5011.3,
+      3595.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "duck",
+    "values": [
+      3429.5,
+      3445.2,
+      4369.5,
+      5407.0,
+      5761.9,
+      4482.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "irr-cf",
+    "values": [
+      2000.0,
+      2110.0,
+      4079.3,
+      4341.9,
+      7243.0,
+      3954.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "irr-ci",
+    "values": [
+      524.7,
+      726.4,
+      1127.9,
+      2008.3,
+      2560.8,
+      1378.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "irr-swd",
+    "values": [
+      883.5,
+      883.5,
+      883.5,
+      883.5,
+      883.5,
+      883.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "n-conv",
+    "values": [
+      622.3,
+      1471.2,
+      3777.2,
+      6125.9,
+      6895.3,
+      3778.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "n-high",
+    "values": [
+      637.2,
+      951.5,
+      1894.5,
+      2056.1,
+      2110.0,
+      1547.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "n-low",
+    "values": [
+      5301.3,
+      4147.9,
+      5340.9,
+      5731.2,
+      6783.6,
+      4538.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "n-no",
+    "values": [
+      5525.5,
+      5602.2,
+      5832.2,
+      6325.1,
+      6489.4,
+      5949.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "r-till",
+    "values": [
+      2268.0,
+      3239.5,
+      6154.0,
+      6826.4,
+      7050.6,
+      5157.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "straw",
+    "values": [
+      2268.0,
+      3765.2,
+      5953.3,
+      6726.4,
+      9701.8,
+      6250.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "nostraw",
+    "values": [
+      1715.7,
+      1736.5,
+      1799.0,
+      5370.0,
+      6560.4,
+      3358.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "notill",
+    "values": [
+      6560.4,
+      7339.2,
+      7977.8,
+      8693.1,
+      9701.8,
+      8054.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "till",
+    "values": [
+      11431.7,
+      11431.7,
+      11431.7,
+      11431.7,
+      11431.7,
+      11431.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "d-ditch",
+    "values": [
+      1487.7,
+      1506.1,
+      1561.4,
+      3053.8,
+      3551.3,
+      2200.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "d-mulch",
+    "values": [
+      4694.6,
+      4694.6,
+      8254.1,
+      11813.6,
+      11813.6,
+      8254.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "n-crf",
+    "values": [
+      5044.4,
+      5757.2,
+      6165.7,
+      6425.9,
+      6546.8,
+      6017.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "s-ditch",
+    "values": [
+      1361.0,
+      1379.4,
+      1434.5,
+      2881.2,
+      3363.4,
+      2053.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CO2e/ha-SAR",
+    "indicator": "s-mulch",
+    "values": [
+      4283.7,
+      4283.7,
+      4283.7,
+      4283.7,
+      4283.7,
+      4283.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "bioch",
+    "values": [
+      30.9,
+      36.2,
+      96.6,
+      162.2,
+      183.1,
+      101.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "duck",
+    "values": [
+      133.0,
+      137.6,
+      181.5,
+      231.2,
+      253.1,
+      187.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "irr-cf",
+    "values": [
+      66.2,
+      72.1,
+      180.1,
+      198.6,
+      330.4,
+      169.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "irr-ci",
+    "values": [
+      9.3,
+      13.1,
+      20.2,
+      23.5,
+      26.7,
+      18.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "irr-swd",
+    "values": [
+      32.8,
+      32.8,
+      32.8,
+      32.8,
+      32.8,
+      32.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "n-conv",
+    "values": [
+      11.3,
+      28.2,
+      149.5,
+      245.8,
+      291.0,
+      144.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "n-high",
+    "values": [
+      11.3,
+      11.5,
+      11.7,
+      39.0,
+      66.2,
+      29.7,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "n-low",
+    "values": [
+      221.0,
+      169.8,
+      226.5,
+      249.0,
+      300.0,
+      192.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "n-no",
+    "values": [
+      255.0,
+      264.0,
+      273.0,
+      288.5,
+      304.0,
+      277.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "r-till",
+    "values": [
+      80.1,
+      154.9,
+      229.7,
+      247.2,
+      264.6,
+      191.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "straw",
+    "values": [
+      47.9,
+      155.5,
+      251.2,
+      285.9,
+      449.0,
+      271.6,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "nostraw",
+    "values": [
+      50.0,
+      64.3,
+      74.0,
+      134.3,
+      79.0,
+      124.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "notill",
+    "values": [
+      286.0,
+      296.5,
+      307.9,
+      349.2,
+      315.9,
+      337.7,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "till",
+    "values": [
+      533.0,
+      533.0,
+      533.0,
+      533.0,
+      533.0,
+      533.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "d-ditch",
+    "values": [
+      49.3,
+      53.5,
+      57.7,
+      105.1,
+      152.4,
+      86.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "d-mulch",
+    "values": [
+      210.0,
+      297.8,
+      385.5,
+      473.3,
+      561.0,
+      385.5,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "n-crf",
+    "values": [
+      216.0,
+      238.8,
+      266.0,
+      282.8,
+      284.0,
+      258.3,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "s-ditch",
+    "values": [
+      45.0,
+      49.1,
+      53.3,
+      98.7,
+      144.2,
+      80.8,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg CH4/ha",
+    "indicator": "s-mulch",
+    "values": [
+      185.0,
+      185.0,
+      185.0,
+      185.0,
+      185.0,
+      185.0,
+      175.7,
+      130.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "bioch",
+    "values": [
+      3.8,
+      4.2,
+      4.7,
+      5.2,
+      5.7,
+      4.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "duck",
+    "values": [
+      1.4,
+      1.6,
+      1.8,
+      1.9,
+      2.1,
+      1.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "irr-cf",
+    "values": [
+      0.6,
+      1.0,
+      1.0,
+      1.6,
+      2.3,
+      1.3,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "irr-ci",
+    "values": [
+      0.8,
+      1.0,
+      2.4,
+      5.4,
+      6.8,
+      3.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "irr-swd",
+    "values": [
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "n-conv",
+    "values": [
+      1.2,
+      1.8,
+      2.5,
+      2.7,
+      3.8,
+      2.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "n-high",
+    "values": [
+      1.3,
+      1.8,
+      2.3,
+      3.8,
+      5.3,
+      3.0,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "n-low",
+    "values": [
+      1.1,
+      1.5,
+      1.6,
+      1.8,
+      2.1,
+      1.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "n-no",
+    "values": [
+      0.3,
+      0.3,
+      0.3,
+      0.4,
+      0.6,
+      0.4,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "r-till",
+    "values": [
+      1.9,
+      3.1,
+      4.3,
+      4.6,
+      4.8,
+      3.7,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "straw",
+    "values": [
+      0.073,
+      0.7,
+      1.4,
+      2.3,
+      4.2,
+      1.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "nostraw",
+    "values": [
+      0.2,
+      0.4,
+      0.6,
+      0.9,
+      1.1,
+      0.6,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "notill",
+    "values": [
+      0.8,
+      0.9,
+      3.0,
+      5.2,
+      5.6,
+      3.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "till",
+    "values": [
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "d-ditch",
+    "values": [
+      1.1,
+      1.1,
+      1.1,
+      1.3,
+      1.5,
+      1.2,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "d-mulch",
+    "values": [
+      0.1,
+      0.3,
+      0.5,
+      0.7,
+      0.9,
+      0.5,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "n-crf",
+    "values": [
+      1.5,
+      1.7,
+      1.8,
+      1.9,
+      1.9,
+      1.9,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "s-ditch",
+    "values": [
+      1.0,
+      1.1,
+      1.1,
+      1.2,
+      1.3,
+      1.1,
+      null,
+      null
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_kg N2O/ha",
+    "indicator": "s-mulch",
+    "values": [
+      1.3,
+      1.3,
+      1.3,
+      1.3,
+      1.3,
+      1.3,
+      null,
+      null
+    ]
+  }
+]

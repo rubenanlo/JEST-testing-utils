@@ -1,0 +1,1778 @@
+[
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CF",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CFD",
+    "indicator": "yield",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CFD",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CFD",
+    "indicator": "irrigration_wa",
+    "values": [
+      5.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-AWD",
+    "indicator": "yield",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-AWD",
+    "indicator": "above_biomass",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-AWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CF",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CFD",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CFD",
+    "indicator": "above_biomass",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CFD",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CFDII",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CFDII",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-CFDII",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Ratoon",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Ratoon",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Ratoon",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Var",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Var",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Var",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Var-D",
+    "indicator": "yield",
+    "values": [
+      5.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Var-D",
+    "indicator": "above_biomass",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Var-D",
+    "indicator": "irrigration_wa",
+    "values": [
+      5.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-CF",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-CF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-CF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_S-DITCH",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_S-DITCH",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_S-DITCH",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_D-DITCH",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_D-DITCH",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_D-DITCH",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CI",
+    "indicator": "yield",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CI",
+    "indicator": "above_biomass",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CI",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-SWD",
+    "indicator": "yield",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-SWD",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-SWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Urea",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Urea",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Urea",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-TSWD",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-TSWD",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-TSWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-Inter",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-Inter",
+    "indicator": "above_biomass",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-Inter",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-SWD",
+    "indicator": "yield",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-SWD",
+    "indicator": "above_biomass",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-SWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Urea",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Urea",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Urea",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-CI",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-CI",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-CI",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-High",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-High",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-High",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-Conv",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-Conv",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-Conv",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_NoStraw",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_NoStraw",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_NoStraw",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Straw",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Straw",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Straw",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_D-MULCH",
+    "indicator": "yield",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_D-MULCH",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_D-MULCH",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_S-MULCH",
+    "indicator": "yield",
+    "values": [
+      5.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_S-MULCH",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_S-MULCH",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CFDII",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CFDII",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-CFDII",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Conv",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Conv",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Conv",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-High",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-High",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-High",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Low",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Low",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Low",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Duck",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Duck",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Duck",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-AWD",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-AWD",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-AWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-CF",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-CF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-CF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-RF",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-RF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-RF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-CRF",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-CRF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-CRF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-Low",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-Low",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-Low",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-No",
+    "indicator": "yield",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-No",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_N-No",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Straw",
+    "indicator": "yield",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Straw",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Straw",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-RF",
+    "indicator": "yield",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-RF",
+    "indicator": "above_biomass",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-RF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_NoTill",
+    "indicator": "yield",
+    "values": [
+      2.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_NoTill",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_NoTill",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_R-Till",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_R-Till",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_R-Till",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Bioch",
+    "indicator": "yield",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Bioch",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Bioch",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_NoStraw",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_NoStraw",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_NoStraw",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-No",
+    "indicator": "yield",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-No",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-No",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-RF",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-RF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-RF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Bioch",
+    "indicator": "yield",
+    "values": [
+      4.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Bioch",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Bioch",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-No",
+    "indicator": "yield",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-No",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-No",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-Till",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-Till",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-Till",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_R-Till",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_R-Till",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_R-Till",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Straw",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Straw",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Straw",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-TSWD",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-TSWD",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Irr-TSWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-Inter",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-Inter",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Irr-Inter",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-Inter",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-Inter",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-Inter",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Conv",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Conv",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Conv",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-High",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-High",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-High",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Low",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Low",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Low",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_BDF",
+    "indicator": "yield",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_BDF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_BDF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_N-Conv",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_N-Conv",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_N-Conv",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Pig",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Pig",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_N-Pig",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_NoTill",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_NoTill",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_NoTill",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-SWD",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-SWD",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Irr-SWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Till",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Till",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Till",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_NoTill",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_NoTill",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_NoTill",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Var-D",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Var-D",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rapeseed-rice rotation_Var-D",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Duck",
+    "indicator": "yield",
+    "values": [
+      5.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Duck",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Rice-wheat rotation_Duck",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-F",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-F",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-F",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-GM",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-GM",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_R-GM",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Bioch",
+    "indicator": "yield",
+    "values": [
+      5.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Bioch",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Conventional rice farming_Bioch",
+    "indicator": "irrigration_wa",
+    "values": [
+      1.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_RPF",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_RPF",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_RPF",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_Irr-CI",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_Irr-CI",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_Irr-CI",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_N-No",
+    "indicator": "yield",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_N-No",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Ground cover rice production system_N-No",
+    "indicator": "irrigration_wa",
+    "values": [
+      3.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-AWD",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-AWD",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Irr-AWD",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Pig",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Pig",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_N-Pig",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Till",
+    "indicator": "yield",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Till",
+    "indicator": "above_biomass",
+    "values": [
+      6.0
+    ]
+  },
+  {
+    "country": "China",
+    "filter": "Rice Cultivation_Double rice cropping_Till",
+    "indicator": "irrigration_wa",
+    "values": [
+      6.0
+    ]
+  }
+]
